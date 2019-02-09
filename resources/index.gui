@@ -1,0 +1,11 @@
+<!--svg class="background"-->
+<svg id="page" class="portrait-view">
+  <g>
+    <rect x="0"   y="0" width="100%" height="33%" fill="black" />
+    <text x="165"   y="65" id="shortDay" />
+    <rect x="0"   y="83" width="100%" height="33%" fill="black" />
+    <text x="165"   y="147" id="normalDay" />
+    <rect x="0"   y="167" width="100%" height="33%" fill="black" />
+    <text x="165"   y="230" id="longDay" />
+  </g>
+</svg>

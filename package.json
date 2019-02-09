@@ -1,0 +1,24 @@
+{
+  "fitbit": {
+    "appUUID": "4521ed0b-af5e-488f-9b6e-f2aea4bda27d",
+    "appType": "app",
+    "appDisplayName": "WorkTimer",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "WorkTimer"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
